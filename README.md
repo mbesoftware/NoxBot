@@ -32,3 +32,9 @@
 8. Aldığınız Tokeni `botsettings.json` daki Gerekli Yere Yapıştırın.
 
 9. Son Olarak `node bot.js` İle Botu Başlatın Ve Karşınıza Çıkan Linkte Botunuz Hazır Olacaktır.
+
+## Kurulum İçin Gerekli Paketler Sizde Yüklü Değilse;
+
+1. Termux `pkg install git` Linux/Unix `apt install git`
+
+2. Termux `pkg install node` Linux/Unix `apt install node` 
