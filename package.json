@@ -1,0 +1,19 @@
+{
+  "name": "noxbot",
+  "version": "0.0.1",
+  "description": "Discord Sunucularına Saldırır",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbesoftware/NoxBot.git"
+  },
+  "author": "mbesoftware",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mbesoftware/NoxBot/issues"
+  },
+  "homepage": "https://github.com/mbesoftware/NoxBot#readme"
+}
